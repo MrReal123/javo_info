@@ -1,0 +1,7 @@
+PyQt5>=5.15
+psutil>=5.9
+py-cpuinfo>=9.0
+GPUtil>=1.4
+wmi>=1.5 ; platform_system == "Windows"
+requests>=2.31
+reportlab>=4.0
